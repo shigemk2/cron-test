@@ -1,7 +1,4 @@
 #!/bin/sh
-DIR_PATH=$1
-cd $DIR_PATH
-#!/bin/sh
  
 for i in `seq 1 1 1000`
 do
